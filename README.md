@@ -5,7 +5,7 @@ files are same therefore to save two copies of same file
 is not a good idea,
 on social sites also thousands of users uploads a same image,
 video, mp3 files, on cloud.
-and hence to use storage in more efficient way we have developed
+and hence to use storage in more efficient way i have developed
 "Reliability Aware Distributed Data Deduplication"
 
 For more
