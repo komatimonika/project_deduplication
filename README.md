@@ -14,5 +14,3 @@ Read Wiki
 <br />
 <br />
 
-Contributors:<br />
-[Nishant Agarwal](https://github.com/nishanta12), [Aditya Khowala](https://github.com/adityakhowala), [Prashant Sonsale](https://github.com/prashantsonsale96)
